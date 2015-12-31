@@ -6,7 +6,10 @@ public wiki
 
 ## 部署
 
-[Kibana](./cellar/deploy/kibana.md) 
+[Kibana](./cellar/deploy/kibana.md)
+
+## License 
+[Apache License](./LICENSE)
 
 
 
