@@ -5,4 +5,4 @@
 ##语法
 
 
-[Markdown](http://doc.gitlab.com/ce/markdown/markdown.html)
+[Markdown](http://docs.gitlab.com/ce/user/markdown.html)
