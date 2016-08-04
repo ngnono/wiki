@@ -2,7 +2,7 @@
 public wiki 
 
 ## 文档
-[Markdown](./cellar/blob/markdown/)
+[Markdown](./cellar/docs/markdown)
 
 ## 部署
 
